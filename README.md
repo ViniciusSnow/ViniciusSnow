@@ -18,6 +18,11 @@ Segue minhas redes sociais
 <li>
 <a href="https://w.app/Q6lXuH" Segue meu Whastapp><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whats-logo"> <a/>
 </li>
+<br>
+<li>
+ Segue os meus status! 💻📶
+ <br>
+</li>
 
 [![Vinicius Stats](https://github-readme-stats.vercel.app/api?username=ViniciusSnow)](https://github.com/anuraghazra/github-readme-stats)
 
